@@ -10,6 +10,9 @@
     "tailwind",
     "grid"
   ],
+  "exports": {
+    "./tailwind-grid-plugin/": "./src"
+  },
   "license": "MIT",
   "devDependencies": {
     "tailwindcss": "^1.8.12"
