@@ -1,0 +1,20 @@
+{
+  "name": "tailwind-grid-plugin",
+  "version": "0.1.0",
+  "description": "A Tailwind CSS plugin that helps with grid layout",
+  "author": {
+    "email": "stas.shovhan@gmail.com",
+    "name": "Stas Shovhan"
+  },
+  "keywords": [
+    "tailwind",
+    "grid"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^1.8.12"
+  },
+  "dependencies": {
+    "lodash": "^4.17.19"
+  }
+}
