@@ -9,7 +9,7 @@ npm install -s tailwind-grid-plugin
 - Require plugin to your tailwind config file
 ```js
 plugins: [
-    require('tailwind-grid-plugin/gridPlugin')
+    require('tailwind-grid-plugin/src/gridPlugin')
 ]
 ```
 
