@@ -6,7 +6,6 @@ module.exports = plugin(({ addComponents, addUtilities, config, e }) => {
         '.row': {
             display: 'flex',
             flexWrap: 'wrap',
-            overflow: 'hidden',
             '> *': {
                 'flex-shrink': '0',
             }
