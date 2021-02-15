@@ -8,7 +8,8 @@
     "grid"
   ],
   "exports": {
-    "./tailwind-grid-plugin/": "./src"
+    "./gridPlugin": "./src/gridPlugin",
+    "./sizePlugin": "./src/sizePlugin"
   },
   "license": "MIT",
   "devDependencies": {
